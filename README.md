@@ -29,11 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats & Achievements
+### 🚀 Core Competencies & Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiydar&show_icons=true&theme=radical&hide_border=true" alt="Hiydar's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiydar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+* 🔒 **Secure Coding & System Architecture:** Designing robust infrastructures with a strong focus on cybersecurity.
+* 🌐 **Full-Stack Development:** Delivering end-to-end applications from intuitive frontend interfaces to scalable backend services.
