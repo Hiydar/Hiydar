@@ -22,3 +22,4 @@
 
 ### 📫 Connect with Me
 - **GitHub:** [@hiydar](https://github.com/Hiydar)
+- https://github-readme-stats.vercel.app/api?username=Hiydar&show_icons=true&theme=radical&hide_border=true
