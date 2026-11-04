@@ -9,7 +9,7 @@
 ### 🎓 About Me
 
 * 🎓 Graduated with a degree in **Computer Engineering**.
-* 💻 Experienced in building **Full-Stack** web applications and backend solutions.
+* 💻 Experienced in building **Full-Stack** web applications.
 * 🐍 **Python Specialist** & Cybersecurity Enthusiast. Building secure, robust digital solutions.
 * ⚡ Fun fact: I love solving complex technical challenges and exploring open-source tools!
 
