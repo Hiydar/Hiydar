@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Hiydar Abdullah 👋</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Python%20&%20Cybersecurity%20Enthusiast&fontSize=24&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=Hiydar%20Abdullah&fontSize=32&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
@@ -10,10 +8,14 @@
   <a href="https://github.com/Hiydar"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+</p>
+
 ---
 
 ## 🛠️ Languages & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -23,14 +25,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/AbsolZero/AbsolZero/output/github-snake-dark.svg" alt="snake animation" width="100%" /></p>
 
 ## 💼 Specializations & Focus
 * **Python Specialist & Cybersecurity Enthusiast:** Building robust, secure digital solutions.
 * **Full-Stack Web Development:** Delivering end-to-end applications from intuitive frontend interfaces to scalable backend services.
 * **Secure Coding & System Architecture:** Designing robust infrastructures with a strong focus on cybersecurity.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-26d2-4d7c-a49c-32f2f7aa1b67.gif" width="60%">
+</p>
 
 ## 🚀 Projects
 
